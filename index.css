@@ -23,7 +23,6 @@ body {
 }
 .cards {
   width: 600px;
-  height: 420px;
 }
 .cards-wrapper {
   display: grid;
